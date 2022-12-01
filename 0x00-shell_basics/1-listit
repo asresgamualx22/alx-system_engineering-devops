@@ -1,4 +1,2 @@
 #!/bin/bash
 ls
-We list all the files and directory using the 'ls ' command.
-So .....
