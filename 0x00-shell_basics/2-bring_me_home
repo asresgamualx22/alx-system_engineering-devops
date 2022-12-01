@@ -1,2 +1,5 @@
-#1/bin/bash
+#!/bin/bash
 cd /root
+The root changes the working direcory to home directory
+So amazing 
+
